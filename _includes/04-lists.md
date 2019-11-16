@@ -1,5 +1,5 @@
-Replace this with a list of your favorite things.
+
 I am:
-* Good at everything
-  * At this
+* Good in everything
+  * In this
   * And this
